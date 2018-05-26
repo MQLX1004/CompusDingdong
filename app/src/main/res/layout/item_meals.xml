@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.CardView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_margin="8dp"
+    android:layout_width="match_parent"
+    android:layout_height="200dp">
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <ImageView
+            android:id="@+id/MealItem_IV_mealpicture"
+            android:layout_margin="5dp"
+            android:layout_width="match_parent"
+            android:layout_height="90dp"/>
+        <TextView
+            android:id="@+id/MealItem_TV_title"
+            android:text="这是一个标题"
+            android:paddingLeft="5dp"
+            android:gravity="center_vertical"
+            android:textColor="@color/dack"
+            android:layout_width="match_parent"
+            android:layout_height="30dp"/>
+        <TextView
+            android:id="@+id/MealItem_TV_introduction"
+            android:padding="5dp"
+            android:maxLines="2"
+            android:textSize="10sp"
+            android:text="123123123"
+            android:ellipsize="end"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"/>
+        <TextView
+            android:id="@+id/MealItem_TV_site"
+            android:textSize="12sp"
+            android:gravity="center_vertical|right"
+            android:paddingRight="5dp"
+            android:text="地点"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"/>
+    </LinearLayout>
+
+</android.support.v7.widget.CardView>

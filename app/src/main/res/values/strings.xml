@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">校园叮咚</string>
+    <string name="association">社团</string>
+    <string name="restaurant">餐厅</string>
+    <string name="library">图书馆</string>
+    <string name="me">我</string>
+    <string name="myactivity">我的活动</string>
+    <string name="myseat">我的座位</string>
+    <string name="releaseactivities">发布活动</string>
+    <string name="releasemeal">发布菜品</string>
+    <string name="login">登录/注册</string>
+    <string name="exitlogin">退出登录</string>
+    <string name="scan">扫一扫</string>
+    <string name="password">密码</string>
+    <string name="passwordsuer">确认密码</string>
+    <string name="account">邮箱</string>
+    <string name="register">注册</string>
+    <string name="submit">提交</string>
+    <string name="username">用户名</string>
+    <string name="activityname">活动名称</string>
+    <string name="activityintroduction">活动简介</string>
+    <string name="activitytime">活动时间</string>
+    <string name="activityplace">活动地点</string>
+    <string name="mealname">菜品名称</string>
+    <string name="mealintroduction">菜品简介</string>
+    <string name="mealplace">上架地点</string>
+    <string name="encode_qrcode">生成二维码</string>
+    <string name="dencode_qrcode">扫描二维码</string>
+    <string name="code_text">请输入生成二维码的文本信息</string>
+    <string name="qrcodetext">这里显示扫描结果</string>
+    <string name="scan_text">扫一扫</string>
+    <string name="cancel">取消</string>
+    <string name="nullseat">你还没有座位，快去占一个吧！</string>
+    <string name="leaveseat">离开当前座位</string>
+    <string name="loadmore">上拉加载更多</string>
+    <string name="nomoreactivity">伦家也是有底线的~</string>
+    <string name="search_hint">请输入关键字</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_login">LoginActivity</string>
+</resources>
