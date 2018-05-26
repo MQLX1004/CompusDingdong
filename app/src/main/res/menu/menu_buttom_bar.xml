@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/ST"
+        android:icon="@drawable/ic_action_team"
+        android:title="社团活动"/>
+    <item
+        android:id="@+id/CT"
+        android:icon="@drawable/ic_action_restaurant"
+        android:title="餐厅菜品"/>
+    <item
+        android:id="@+id/TSG"
+        android:icon="@drawable/ic_action_library"
+        android:title="图书馆"/>
+    <item
+        android:id="@+id/ME"
+        android:icon="@drawable/ic_action_user"
+        android:title="个人"/>
+</menu>
